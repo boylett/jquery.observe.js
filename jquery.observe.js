@@ -1,7 +1,7 @@
 /**
  * Observe elements to see if they are (or have ever been) within the viewport
  *  $('.panel').observe(function(){ ... });
- * @author   Ryan Boylett <http://boylett.uk/>
+ * @author   Rytoonist <https://rytoonist.com/>
  * @version  0.1.0
  */
 
